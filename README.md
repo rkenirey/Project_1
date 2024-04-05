@@ -1,4 +1,4 @@
 # Project_1
 
-##Team Name:
+Team Name:
 21479 Group 5
